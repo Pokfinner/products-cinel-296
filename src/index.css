@@ -180,3 +180,7 @@ button:focus-visible {
   border-radius: 40px;
   padding: 40px;
 }
+
+.App .message{
+  color: white;
+}
